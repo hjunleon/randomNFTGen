@@ -1,0 +1,101 @@
+config_criteria_prefix: config_criteria
+config_filename: config.csv
+exclusion_hr_ha_filename: exclusion_criteria_hr_ha.csv
+exclusion_ha_fa_filename: exclusion_criteria_ha_fa.csv
+exclusion_hr_co_filename: exclusion_criteria_hr_co.csv
+exclusion_fa_mo_filename: exclusion_criteria_fa_mo.csv
+color_balance_filename: color_balance.csv
+unrender_fa: unrender_fa.csv
+nulling_criteria_hr_fa_filename: nulling_criteria_hr_fa
+metadata_labels: metadata_labels.csv
+
+trait_directories:
+  bg: backgrounds
+  co: clothes
+  ey: eyes
+  mo: mouth
+  hr: hair
+  fa: face-accessories
+  ha: head-accessories
+  gr: gears
+
+class_types:
+  human: 5
+  ronin: 5
+  droid: 5
+  master_ronin: 5
+  ultra_droid: 5
+
+#class_types:
+#  human: 195
+#  ronin: 195
+#  droid: 195
+#  master_ronin: 195
+#  ultra_droid: 195
+
+#class_types:
+#  human: 4663
+#  ronin: 1995
+#  droid: 1995
+#  master_ronin: 105
+#  ultra_droid: 105
+
+#  human: 4666        (4663 regular + 3 handcrafted)
+#  ronin: 1996        (1995 regular + 1 handcrafted)
+#  droid: 1996        (1995 regular + 1 handcrafted)
+#  master_ronin: 110  (105 regular  + 5 handcrafted)
+#  ultra_droid: 110   (105 regular  + 5 handcrafted)
+#  legendary: 10
+
+class_type_probs:
+  human:
+    cl_10: 3333
+    cl_11: 3333
+    cl_12: 3333
+  ronin:
+    cl_4: 3333
+    cl_5: 3333
+    cl_6: 3333
+  droid:
+    cl_1: 5000
+    cl_2: 5000
+  master_ronin:
+    cl_7: 3333
+    cl_8: 3333
+    cl_9: 3333
+  ultra_droid:
+    cl_3: 10000
+
+group_probs:
+  group_1: 3333
+  group_2: 3333
+  group_3: 3333
+
+trait_probs_by_group:
+  group_1:
+    bg: 1
+    co: 1
+    ey: 1
+    mo: 1
+    hr: 1
+    fa: 0.25
+    ha: 0
+    gr: 0
+  group_2:
+    bg: 1
+    co: 1
+    ey: 1
+    mo: 1
+    hr: 1
+    fa: 0.5
+    ha: 0
+    gr: 0.5
+  group_3:
+    bg: 1
+    co: 1
+    ey: 1
+    mo: 1
+    hr: 1
+    fa: 0.5
+    ha: 0.5
+    gr: 1

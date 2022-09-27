@@ -1,0 +1,31 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Blue"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "co_29"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Arrow"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Cowboy Hat"
+        },
+        {
+            "trait_type": "Face Accessory",
+            "value": "Laser Visor"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Droid"
+        }
+    ],
+    "description": "Aiko Virtual is a collection of 8,888 generative portrait artworks.",
+    "image": "",
+    "name": "Aiko #9"
+}

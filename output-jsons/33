@@ -1,0 +1,35 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Ronin Red"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "co_7"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Ronin Stars"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Lips"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Short Bangs"
+        },
+        {
+            "trait_type": "Gears",
+            "value": "Benkei Sword(s)"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Ronin"
+        }
+    ],
+    "description": "Aiko Virtual is a collection of 8,888 generative portrait artworks.",
+    "image": "",
+    "name": "Aiko #33"
+}

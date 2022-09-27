@@ -1,0 +1,43 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Ronin Red"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "co_52"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Watchful"
+        },
+        {
+            "trait_type": "Face Accessory",
+            "value": "Spiky Choker"
+        },
+        {
+            "trait_type": "Gears",
+            "value": "Lil Demon Wing"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Ribbon Buns"
+        },
+        {
+            "trait_type": "Head Accessory",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Happy Smile"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Master Ronin"
+        }
+    ],
+    "description": "Aiko Virtual is a collection of 8,888 generative portrait artworks.",
+    "image": "",
+    "name": "Aiko #34"
+}

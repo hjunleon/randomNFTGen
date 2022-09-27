@@ -1,0 +1,35 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Project A-1"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "co_1"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Looking Right"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Benkei Princess"
+        },
+        {
+            "trait_type": "Face Accessory",
+            "value": "Ninja Mask"
+        },
+        {
+            "trait_type": "Gears",
+            "value": "Fine Sword(s)"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Ronin"
+        }
+    ],
+    "description": "Aiko Virtual is a collection of 8,888 generative portrait artworks.",
+    "image": "",
+    "name": "Aiko #16"
+}

@@ -1,0 +1,39 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Project A-1"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "co_32"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Strong"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Wrath"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Dreads"
+        },
+        {
+            "trait_type": "Face Accessory",
+            "value": "Lab Goggles"
+        },
+        {
+            "trait_type": "Gears",
+            "value": "Benkei Sword(s)"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Human"
+        }
+    ],
+    "description": "Aiko Virtual is a collection of 8,888 generative portrait artworks.",
+    "image": "",
+    "name": "Aiko #35"
+}

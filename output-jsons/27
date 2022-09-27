@@ -1,0 +1,35 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Aura"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "co_14"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Determined (Hazel)"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Curious"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Dreads"
+        },
+        {
+            "trait_type": "Face Accessory",
+            "value": "Evoprix Visor"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Droid"
+        }
+    ],
+    "description": "Aiko Virtual is a collection of 8,888 generative portrait artworks.",
+    "image": "",
+    "name": "Aiko #27"
+}

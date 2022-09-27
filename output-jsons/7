@@ -1,0 +1,35 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Project A-1"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "co_30"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Foxy (Aquamarine)"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Lithium S. Flask"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Ear Muffs"
+        },
+        {
+            "trait_type": "Gears",
+            "value": "Axium Cyberwings (A-0)"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Human"
+        }
+    ],
+    "description": "Aiko Virtual is a collection of 8,888 generative portrait artworks.",
+    "image": "",
+    "name": "Aiko #7"
+}

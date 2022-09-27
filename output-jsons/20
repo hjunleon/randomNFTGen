@@ -1,0 +1,31 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Cherry Blossoms"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "co_43"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tired"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Squiggle"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Meowrai"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Ronin"
+        }
+    ],
+    "description": "Aiko Virtual is a collection of 8,888 generative portrait artworks.",
+    "image": "",
+    "name": "Aiko #20"
+}

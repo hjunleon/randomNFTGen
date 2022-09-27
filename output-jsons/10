@@ -1,0 +1,35 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Blue"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "co_15"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Straight"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Dreads"
+        },
+        {
+            "trait_type": "Face Accessory",
+            "value": "Ski Goggles"
+        },
+        {
+            "trait_type": "Gears",
+            "value": "Lil Demon Wing"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Droid"
+        }
+    ],
+    "description": "Aiko Virtual is a collection of 8,888 generative portrait artworks.",
+    "image": "",
+    "name": "Aiko #10"
+}

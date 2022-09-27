@@ -1,0 +1,43 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Blue"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "co_57"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Confident (Gray)"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoking"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Chanel"
+        },
+        {
+            "trait_type": "Face Accessory",
+            "value": "Scouter"
+        },
+        {
+            "trait_type": "Head Accessory",
+            "value": "Technocat"
+        },
+        {
+            "trait_type": "Gears",
+            "value": "Plutum Cyberwings (P-1)"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Ultra Droid"
+        }
+    ],
+    "description": "Aiko Virtual is a collection of 8,888 generative portrait artworks.",
+    "image": "",
+    "name": "Aiko #18"
+}

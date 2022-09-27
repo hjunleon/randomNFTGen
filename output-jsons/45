@@ -1,0 +1,43 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Golden Circlet"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "co_60"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Neuroprix Spheres"
+        },
+        {
+            "trait_type": "Face Accessory",
+            "value": "Evoprix Visor"
+        },
+        {
+            "trait_type": "Gears",
+            "value": "Golden Cat Cyberwings (GC-X)"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Golden Lucky Cat"
+        },
+        {
+            "trait_type": "Head Accessory",
+            "value": "Sweat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Meow"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Ultra Droid"
+        }
+    ],
+    "description": "Aiko Virtual is a collection of 8,888 generative portrait artworks.",
+    "image": "",
+    "name": "Aiko #45"
+}

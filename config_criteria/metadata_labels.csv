@@ -1,0 +1,354 @@
+trait,label
+cl_1,Droid
+cl_2,Droid
+cl_3,Ultra Droid
+cl_4,Ronin
+cl_5,Ronin
+cl_6,Ronin
+cl_7,Master Ronin
+cl_8,Master Ronin
+cl_9,Master Ronin
+cl_10,Human
+cl_11,Human
+cl_12,Human
+bg_1,Light Gray
+bg_2,Project A-2
+bg_3,Project A-1
+bg_4,Pastel Yellow
+bg_5,Pastel Blue
+bg_6,Pastel Green
+bg_7,Pastel Purple
+bg_8,Coral
+bg_9,Ronin Red
+bg_10,Pastel Orange
+bg_11,Sunrise
+bg_12,Benkei Sunset
+bg_13,Cherry Blossoms
+bg_14,Flowers
+bg_15,Baby Blue
+bg_16,Dark Blue
+bg_17,Light Blue
+bg_18,Nightfall
+bg_19,Zenet Sky
+bg_20,Aura
+bg_21,Lab Access
+bg_22,Golden Circlet
+co_1,co_1
+co_2,co_2
+co_3,co_3
+co_4,co_4
+co_5,co_5
+co_6,co_6
+co_7,co_7
+co_8,co_8
+co_9,co_9
+co_10,co_10
+co_11,co_11
+co_12,co_12
+co_13,co_13
+co_14,co_14
+co_15,co_15
+co_16,co_16
+co_17,co_17
+co_18,co_18
+co_19,co_19
+co_20,co_20
+co_21,co_21
+co_22,co_22
+co_23,co_23
+co_24,co_24
+co_25,co_25
+co_26,co_26
+co_27,co_27
+co_28,co_28
+co_29,co_29
+co_30,co_30
+co_31,co_31
+co_32,co_32
+co_33,co_33
+co_34,co_34
+co_35,co_35
+co_36,co_36
+co_37,co_37
+co_38,co_38
+co_39,co_39
+co_40,co_40
+co_41,co_41
+co_42,co_42
+co_43,co_43
+co_44,co_44
+co_45,co_45
+co_46,co_46
+co_47,co_47
+co_48,co_48
+co_49,co_49
+co_50,co_50
+co_51,co_51
+co_52,co_52
+co_53,co_53
+co_54,co_54
+co_55,co_55
+co_56,co_56
+co_57,co_57
+co_58,co_58
+co_59,co_59
+co_60,co_60
+ey_1,Confident (Gray)
+ey_2,Unamused
+ey_3,Closed
+ey_4,Looking Left
+ey_5,Surprised (Brown)
+ey_6,Determined (Green)
+ey_7,Bored (Blue)
+ey_8,Surprised (Blue)
+ey_9,Happy
+ey_10,Tired
+ey_11,Foxy (Aquamarine)
+ey_12,Focused (Purple)
+ey_13,Worried
+ey_14,Bored (Green)
+ey_15,Wink
+ey_16,Determined (Hazel)
+ey_17,Strong
+ey_18,Looking Right
+ey_19,Confident (Blue)
+ey_20,Foxy (Sun)
+ey_21,Sparks
+ey_22,> <
+ey_23,Focused (Heterochromic)
+ey_24,Foxy (Heterochromic)
+ey_25,Sparkly Wink
+ey_26,Sparkly Sun
+ey_27,Sparkly Purple
+ey_28,Healing
+ey_29,Starstruck
+ey_30,Relaxed
+ey_31,^ ^
+ey_32,Seriously?
+ey_33,Innocent Warrior
+ey_34,Watchful
+ey_35,Corrupted
+ey_36,Red Flame
+ey_37,Ronin Stars
+ey_38,Neutral
+ey_39,Robotic
+ey_40,Droid
+ey_41,Hexagonal
+ey_42,Neuroprix Spheres
+ey_43,Gold
+mo_1,Straight
+mo_2,Meow
+mo_3,Arrow
+mo_4,Surprised
+mo_5,Frown
+mo_6,Little Fang
+mo_7,Wavy
+mo_8,Lips
+mo_9,Piercings
+mo_10,Sleeping
+mo_11,Curious
+mo_12,Happy Smile
+mo_13,Squiggle
+mo_14,Wrath
+mo_15,Tongue
+mo_16,Vampiric
+mo_17,Lollipop
+mo_18,Shark Teeth
+mo_19,Toast
+mo_20,Lithium S. Flask
+mo_21,Beast
+mo_22,Smoking
+mo_23,Tomoe Tattoo
+mo_24,Kunai
+mo_25,Cyber Cute Fang
+mo_26,Electronic
+hr_1_sub_1,Shaved
+hr_1_sub_2,Shaved
+hr_2_sub_1,Short Bangs
+hr_2_sub_2,Short Bangs
+hr_3_sub_1,Sharp Tails
+hr_3_sub_2,Sharp Tails
+hr_4_sub_1,Chanel
+hr_4_sub_2,Chanel
+hr_5_sub_1,Side Ponytail
+hr_5_sub_2,Side Ponytail
+hr_6_sub_1,Afro
+hr_6_sub_2,Afro
+hr_7_sub_1,Combed Spiky
+hr_7_sub_2,Combed Spiky
+hr_8_sub_1,Beanie
+hr_8_sub_2,Beanie
+hr_9_sub_1,Twinbuns
+hr_9_sub_2,Twinbuns
+hr_10_sub_1,Dreads
+hr_10_sub_2,Dreads
+hr_11_sub_1,Pixie
+hr_11_sub_2,Pixie
+hr_12_sub_1,Sharpy
+hr_12_sub_2,Sharpy
+hr_13_sub_1,Cat Buns
+hr_13_sub_2,Cat Buns
+hr_14_sub_1,Bun Tails
+hr_14_sub_2,Bun Tails
+hr_15_sub_1,Gothic Curls
+hr_15_sub_2,Gothic Curls
+hr_16_sub_1,Baseball Cap
+hr_16_sub_2,Baseball Cap
+hr_17_sub_1,Bucket Hat
+hr_17_sub_2,Bucket Hat
+hr_18_sub_1,Cat Beanie
+hr_18_sub_2,Cat Beanie
+hr_19_sub_1,Trainer
+hr_19_sub_2,Trainer
+hr_20_sub_1,Ear Muffs
+hr_20_sub_2,Ear Muffs
+hr_21_sub_1,Cowboy Hat
+hr_21_sub_2,Cowboy Hat
+hr_22_sub_1,Maid Hair
+hr_22_sub_2,Maid Hair
+hr_23_sub_1,Meepo Hat
+hr_23_sub_2,Meepo Hat
+hr_24_sub_1,Beret
+hr_24_sub_2,Beret
+hr_25_sub_1,Mushroom
+hr_25_sub_2,Mushroom
+hr_26_sub_1,Breakfast
+hr_26_sub_2,Breakfast
+hr_27_sub_1,Twintails
+hr_27_sub_2,Twintails
+hr_28_sub_1,Long Straight
+hr_28_sub_2,Long Straight
+hr_29_sub_1,90s
+hr_29_sub_2,90s
+hr_30_sub_1,Spirit
+hr_30_sub_2,Spirit
+hr_31_sub_1,Snaky
+hr_31_sub_2,Snaky
+hr_32_sub_1,Flowy
+hr_32_sub_2,Flowy
+hr_33_sub_1,Updraft
+hr_33_sub_2,Updraft
+hr_34_sub_1,Windy
+hr_34_sub_2,Windy
+hr_35_sub_1,Meowrai
+hr_35_sub_2,Meowrai
+hr_36_sub_1,Tomoe Hat
+hr_36_sub_2,Tomoe Hat
+hr_37_sub_1,Ribbon Buns
+hr_37_sub_2,Ribbon Buns
+hr_38_sub_1,Samurai Helmet
+hr_38_sub_2,Samurai Helmet
+hr_39_sub_1,Benkei Princess
+hr_39_sub_2,Benkei Princess
+hr_40_sub_1,Energy Ring
+hr_40_sub_2,Energy Ring
+hr_41_sub_1,Interfaces
+hr_41_sub_2,Interfaces
+hr_42_sub_1,Connections
+hr_42_sub_2,Connections
+hr_43_sub_1,Techno
+hr_43_sub_2,Techno
+hr_44_sub_1,Zenet Princess
+hr_44_sub_2,Zenet Princess
+hr_45_sub_1,Golden Lucky Cat
+hr_45_sub_2,Golden Lucky Cat
+fa_1,Sticky Note
+fa_2,Bridge Piercing
+fa_3,Bandage
+fa_4,Little Headset
+fa_5,Viper Visor
+fa_6,Round Glasses
+fa_7,Eye Patch
+fa_8,Spiky Choker
+fa_9,Scouter
+fa_10,Piercings
+fa_11,Face Mask
+fa_12,Sunglasses
+fa_13,Julitech
+fa_14,Lab Goggles
+fa_15,Shiny Glasses
+fa_16,Night Vision
+fa_17,Laser Visor
+fa_18,Terminator
+fa_19,Gas Mask
+fa_20,Ski Goggles
+fa_21,Lucky Seal
+fa_22,Ninja Mask
+fa_23,Neuroprix
+fa_24,Evoprix Visor
+ha_1_sub_1,Little Flowers
+ha_1_sub_2,Little Flowers
+ha_1_sub_3,Little Flowers
+ha_2_sub_1,Meepo Pin
+ha_2_sub_2,Meepo Pin
+ha_2_sub_3,Meepo Pin
+ha_3,Sweat
+ha_4,Angry
+ha_5,Shining
+ha_6_sub_1,Flower Ribbon
+ha_6_sub_2,Flower Ribbon
+ha_6_sub_3,Flower Ribbon
+ha_7,GM!
+ha_8,Wolf Ears
+ha_9,Horns
+ha_10,Angelic
+ha_11,Benkei Hairpin
+ha_12,Tomoe Fans
+ha_13,Ancient Ribbons
+ha_14,H41R-P1N5
+ha_15,Technocat
+ha_16,Mecha Crown
+gr_1,Axium Cyberwings (A-0)
+gr_2,Axium Cyberwings (A-1)
+gr_3,Plutum Cyberwings (P-0)
+gr_4,Plutum Cyberwings (P-1)
+gr_5,Lithium Cyberwings (L-0)
+gr_6,Lithium Cyberwings (L-1)
+gr_7_blue,Lithium Cyberwings (L.Star)
+gr_7_purple,Lithium Cyberwings (L.Star)
+gr_7_green,Lithium Cyberwings (L.Star)
+gr_7_yellow,Lithium Cyberwings (L.Star)
+gr_8,Prixium Cyberwings (PX-0)
+gr_9,Prixium Cyberwings (PX-1)
+gr_10_blue,Prixium Cyberwings (PX-L.Star)
+gr_10_purple,Prixium Cyberwings (PX-L.Star)
+gr_10_green,Prixium Cyberwings (PX-L.Star)
+gr_10_yellow,Prixium Cyberwings (PX-L.Star)
+gr_11_sub_1,Steel Sword(s)
+gr_11_sub_2,Steel Sword(s)
+gr_11_sub_3,Steel Sword(s)
+gr_12_sub_1,Fine Sword(s)
+gr_12_sub_2,Fine Sword(s)
+gr_12_sub_3,Fine Sword(s)
+gr_13_sub_1,Wind Blade(s)
+gr_13_sub_2,Wind Blade(s)
+gr_13_sub_3,Wind Blade(s)
+gr_14_sub_1,Gilt Wind Blade(s)
+gr_14_sub_2,Gilt Wind Blade(s)
+gr_14_sub_3,Gilt Wind Blade(s)
+gr_15_sub_1,Benkei Sword(s)
+gr_15_sub_2,Benkei Sword(s)
+gr_15_sub_3,Benkei Sword(s)
+gr_16_sub_1,Fetch Benkei Sword(s)
+gr_16_sub_2,Fetch Benkei Sword(s)
+gr_16_sub_3,Fetch Benkei Sword(s)
+gr_17_sub_1,Gilt Benkei Sword(s)
+gr_17_sub_2,Gilt Benkei Sword(s)
+gr_17_sub_3,Gilt Benkei Sword(s)
+gr_18_sub_1,Warrior Blade(s)
+gr_18_sub_2,Warrior Blade(s)
+gr_18_sub_3,Warrior Blade(s)
+gr_19_sub_1,Guardian Blade(s)
+gr_19_sub_2,Guardian Blade(s)
+gr_19_sub_3,Guardian Blade(s)
+gr_20_sub_1,Master Blade(s)
+gr_20_sub_2,Master Blade(s)
+gr_20_sub_3,Master Blade(s)
+gr_21,Meepo's Pad
+gr_22,Lithium Ring
+gr_23,Lil Angel Wing
+gr_24,Lil Demon Wing
+gr_25,B.F.R.
+gr_26,Benkei No Chochin
+gr_27,Golden Cat Cyberwings (GC-X)
+gr_28,Golden Cat Spirit Blade
